@@ -1,0 +1,42 @@
+# ----------------------------------------------------------------------
+# orti-file — fichiers a ne jamais publier
+# ----------------------------------------------------------------------
+
+# Rapports generes par le script (README : "bash orti-file.sh > rapport.txt")
+rapport.txt
+rapport-*.txt
+rapport-*.log
+*.report
+
+# Sorties d'analyse locales (dossiers de travail eventuels)
+/out/
+/rapports/
+/resultats/
+
+# Sauvegardes d'editeur (vim/gedit/nano : README.md~, orti-file.sh~...)
+*~
+*.bak
+*.orig
+.*.swp
+*.swp
+*.swo
+
+# Configuration d'editeur / IDE
+.vscode/
+.idea/
+
+# Secrets et reglages locaux (jamais de credentials SSH dans le depot)
+.env
+*.local
+*.secret
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+
+# Archives de release (generees, pas du code source)
+*.tar.gz
+*.tgz
+*.zip
