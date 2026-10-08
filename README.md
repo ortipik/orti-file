@@ -324,7 +324,7 @@ Distribué sous licence **MIT**. Voir [LICENSE](LICENSE).
 
 **Ortipik** — pour [OMEGA-server](https://kraynux.snake-mackarel.ts.net)
 
-- 🌐 Page : [orti-file](https://kraynux.snake-mackarel.ts.net/public/scripts/Analyse-detaillée-repertoire-web-local.html)
+- 🌐 Page : [orti-file](https://kraynux.snake-mackarel.ts.net/orti-file)
 - 🐙 GitHub : [@Ortipik](https://github.com/Ortipik)
 
 ---
